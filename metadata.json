@@ -1,0 +1,6 @@
+{
+  "name": "Farmova AI",
+  "description": "Smarter Farming. Stronger Futures. NASA-powered agricultural intelligence and crop-rotation decision support for Ghanaian smallholder farmers.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
